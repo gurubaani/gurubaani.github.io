@@ -3208,7 +3208,7 @@ input, select, textarea {
 		.wrapper > .inner {
 			padding: 5em 5em 3em 5em ;
 			max-width: 100%;
-			width: 75em;
+			width: 46em;
 		}
 
 			@media screen and (max-width: 1680px) {
@@ -3881,7 +3881,7 @@ input, select, textarea {
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 1.00em;
 		}
 
 			@media screen and (max-width: 980px) {

@@ -2552,7 +2552,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #29686b;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3022,7 +3022,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(0, 0, 0, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3208,7 +3208,7 @@ input, select, textarea {
 		.wrapper > .inner {
 			padding: 5em 5em 3em 5em ;
 			max-width: 100%;
-			width: 46em;
+			width: 75em;
 		}
 
 			@media screen and (max-width: 1680px) {
@@ -3244,11 +3244,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #1d1d1d;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-image: linear-gradient(45deg, black, #1b1b1b);
 		}
 
 		.wrapper.style2-alt {
@@ -3256,11 +3256,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #353535;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #565656;
 		}
 
 		.wrapper.fullscreen {
